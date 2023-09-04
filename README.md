@@ -2,7 +2,7 @@
 A railway reservation system developed using Python and Tkinter.
 ## Introduction
 The Advance Railway Ticketing System is a Python-based application designed to simplify the process of booking and managing railway tickets. This system provides a user-friendly interface for passengers to book tickets, view train schedules, and manage their bookings. It also offers administrative functionalities for railway staff to manage train details, ticket availability, and passenger information.
-# Features
+## Features
 User Registration and Authentication: Passengers can create accounts and log in securely.
 Train Schedule: View the schedule and details of available trains.
 Ticket Booking: Reserve tickets for a specific date and train.
@@ -21,8 +21,8 @@ Python
 3. Book tickets by selecting the train, date, and number of seats.
 4. Cancel booked tickets if necessary.
 5. Admins can log in with admin credentials to manage train details and passenger records.
-### My GitHub Profile
-You can find more about me and my projects on my [Shivani Suresh](https://github.com/ShivaniSuresh1).
+## My GitHub Profile
+You can find more about me and my projects on [Shivani Suresh](https://github.com/ShivaniSuresh1).
 
 
 
