@@ -10,7 +10,7 @@ Ticket Cancellation: Passengers can cancel their booked tickets.
 Seat Availability: Check seat availability for a particular train.
 Admin Panel: Railway staff can manage train information, ticket availability, and passenger records.
 ## Technologies Used
-Python
+Python and related modules
 ## Setup Instructions
 1. Clone the repository
 2. Navigate to project directory
